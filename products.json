@@ -1,0 +1,102 @@
+[{
+    "name": "Redmi 10 prime",
+    "price": 245.67,
+    "description": "Very good product",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/1.jpg"
+        }
+    ],
+    "category": "Mobile phones",
+    "seller": "Amazon",
+    "stock": 5
+    
+},
+{
+    "name": "Redmi 10 prime 5G",
+    "price": 210.99,
+    "description": "Very good product",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/2.jpg"
+        }
+        
+    ],
+    "category": "Mobile phones",
+    "seller": "Amazon",
+    "stock": 4
+},
+{
+    "name": "Realme",
+    "price": 289.99,
+    "description": "Very good product",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/3.jpg"
+        }
+    ],
+    "category": "Mobile phones",
+    "seller": "Amazon",
+    "stock": 4
+},
+{
+    "name": "oppo",
+    "price": 345.00,
+    "description": "Very good product",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/4.jpg"
+        }
+        
+    ],
+    "category": "Mobile phones",
+    "seller": "Amazon",
+    "stock": 4
+},
+{
+    "name": "1+",
+    "price": 245.67,
+    "description": "Very good product",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/5.jpg"
+        }
+    ],
+    "category": "Mobile phones",
+    "seller": "Amazon",
+    "stock": 4
+},
+{
+    "name": "mi",
+    "price": 317.00,
+    "description": "Very good product",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/6.jpg"
+        }
+    ],
+    "category": "Mobile phones",
+    "seller": "Amazon",
+    "stock": 4
+},
+{
+    "name": "Vivo",
+    "price": 321.00,
+    "description": "Very good product",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/7.jpg"
+        } 
+    ],
+    "category": "Mobile phones",
+    "seller": "Amazon",
+    "stock": 4
+}
+]
